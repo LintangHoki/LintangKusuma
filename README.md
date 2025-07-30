@@ -1,5 +1,9 @@
-# 💫 About Me:
-saya lintang kusuma dari indonesia jawa barat  saya adalah developer samp yang baru belajar<br>dan belajar bahasa python dan java script 
+## 💫 About Me
+
+Saya **Lintang Kusuma** dari **Jawa Barat, Indonesia** 🇮🇩  
+Saya adalah **developer SA-MP pemula** yang sedang belajar membuat server roleplay, minigame, dan fitur-fitur menarik menggunakan bahasa **Pawn**.  
+Saat ini saya juga sedang mempelajari **Python** dan **JavaScript** untuk memperluas pengetahuan saya di dunia pemrograman dan otomasi.  
+Saya sangat antusias dalam mengembangkan skill coding saya, terutama dalam membuat script dan sistem yang berguna untuk komunitas game online.
 
 
 ## 🌐 Socials:
